@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 #
-#
+#全局变量以 $ 开头。未初始化的全局变量的值为 nil，在使用 -w 选项后，会产生警告。
 #
 $global_variable=10
 class Class1
